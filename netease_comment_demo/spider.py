@@ -36,6 +36,7 @@ def NextPage():
         next_button = WAIT.until(EC.element_to_be_clickable((By.XPATH,'//a[starts-with(@class,"zbtn znxt js-n-")]')))
         driver.execute_script('arguments[0].click();', next_button)
         element_list = WAIT.until(EC.presence_of_all_elements_located((By.XPATH,'//div[@class="cnt f-brk"]')))
+        
         return element_list
     except TimeoutException:
         traceback.print_exc()
