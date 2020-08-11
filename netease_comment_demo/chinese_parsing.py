@@ -85,8 +85,8 @@ def WordFrequenceBar(word_freq):
     color = [(1 - 0.03 * l, 0, 0) for l in range(10)] #设置不同柱形不同颜色
     plt.barh(x[::-1],y[::-1],color=color[::-1])
     plt.title('无滤镜热词top10')
-    plt.xlabel('word')
-    plt.ylabel('freq')
+    plt.xlabel('freq')
+    plt.ylabel('word')
     plt.savefig('热词直方图.png')
     plt.show()
 

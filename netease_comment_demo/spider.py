@@ -48,6 +48,7 @@ def Spider(page_nums = 623,url="https://music.163.com/#/song?id=1466053895"):
     """
     功能：爬虫主程序
     page_nums：评论总页数
+    url：爬取歌曲链接
     """
     i,comments = 2,[]
     driver.get(url)
