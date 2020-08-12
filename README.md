@@ -5,6 +5,7 @@
 本项目主要记录一些python爬虫实战的代码，后面会逐步更新各种爬虫示例代码。
 
 项目环境：python 3.6.3
+使用到的爬虫库：requests,selenium
 
 ## demo简要说明
 Demo | 说明
