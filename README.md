@@ -8,6 +8,8 @@
 
 使用到的爬虫库：requests,selenium
 
+可视化相关库：Matplotlib,wordcloud
+
 ## demo简要说明
 Demo | 说明
 ---- | ---
