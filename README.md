@@ -17,3 +17,4 @@ bilibili_videoInfo_demo | B站视频信息爬取
 qqmusic_comment_demo | QQ音乐评论爬取及生成词云
 bilibili_barrage_demo | B站弹幕爬取
 netease_comment_demo | 网易云音乐评论爬取及生成词频直方图
+wallpapers | 利用scrapy框架进行WallpaperCraft壁纸爬取
