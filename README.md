@@ -10,6 +10,8 @@
 
 可视化相关库：Matplotlib,wordcloud
 
+相应博客地址：[爬虫实战专栏](https://blog.csdn.net/qq_42103091/category_10253830.html)
+
 ## demo简要说明
 Demo | 说明
 ---- | ---
