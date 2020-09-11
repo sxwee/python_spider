@@ -15,6 +15,9 @@ def Countmobsales(mdata):
         '小米':0,
         '苹果':0,
         '三星':0,
+        '中兴':0,
+        '魅族':0,
+        '一加':0,
         '其他':0
     }
     for mtype in mdata:
@@ -31,10 +34,16 @@ def Countmobsales(mdata):
             mobsales['苹果'] += sales
         elif '三星' in mobname:
             mobsales['三星'] += sales
+        elif '中兴' in mobname:
+            mobsales['中兴'] += sales
+        elif '魅族' in mobname:
+            mobsales['魅族'] += sales
+        elif '一加' in mobname:
+            mobsales['一加'] += sales
         else:
-            #print(mtype)
+            print(mtype)
             mobsales['其他'] += sales
-    
+    print(mobsales)
     return mobsales
 
 def DataVisVisualization(mobsales):
