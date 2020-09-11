@@ -41,9 +41,9 @@ def Countmobsales(mdata):
         elif '一加' in mobname:
             mobsales['一加'] += sales
         else:
-            print(mtype)
+            #print(mtype)
             mobsales['其他'] += sales
-    print(mobsales)
+    #print(mobsales)
     return mobsales
 
 def DataVisVisualization(mobsales):
@@ -65,6 +65,6 @@ def DataVisVisualization(mobsales):
     plt.show()
 
 if __name__ == "__main__":
-    mdata = pd.read_csv('mobile_info.csv').values.tolist()
+    mdata = pd.read_csv('mobile_info_drop_dup.csv').values.tolist()
     mobsales = Countmobsales(mdata)
     DataVisVisualization(mobsales)
