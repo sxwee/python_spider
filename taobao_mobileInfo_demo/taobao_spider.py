@@ -9,8 +9,8 @@ import traceback
 IPRegular = r"(([1-9]?\d|1\d{2}|2[0-4]\d|25[0-5]).){3}([1-9]?\d|1\d{2}|2[0-4]\d|25[0-5])"
 
 headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36",
-    "cookie": "thw=cn; cna=7W44FT/BQ3UCAXyhCANsjkrB; tracknick=%5Cu4E00%5Cu84D1%5Cu70DF%5Cu96E8%5Cu4EFB%5Cu5E73%5Cu751F678; tg=0; hng=CN%7Czh-CN%7CCNY%7C156; miid=452598852068526430; sgcookie=Erop1RJclTWUlHu6njl9r; uc3=vt3=F8dCufTP%2F1zP09zomvw%3D&lg2=V32FPkk%2Fw0dUvg%3D%3D&id2=UNX4HdDc7DfpNw%3D%3D&nk2=saDShX4nCyjW1n1YqyTdKU4%3D; lgc=%5Cu4E00%5Cu84D1%5Cu70DF%5Cu96E8%5Cu4EFB%5Cu5E73%5Cu751F678; uc4=id4=0%40UgJ9%2F0%2FW7CwgGrfAVFRiZZHHtRL7&nk4=0%40s8WS70y7cDeuHXfNGrC%2Fb9UKyx1%2F6TyFOYipUg%3D%3D; _cc_=WqG3DMC9EA%3D%3D; enc=Liv1XLNGVc%2BwJRzw%2FAW0LTuvAhCB0M9flhhelKsSAqmUy3jF2Y4yw6u6TYo%2BOKsKLM4x6IS7hN1tlZxfL%2BHuvA%3D%3D; UM_distinctid=17473196d42f7-0caca7877e514f-f7b1332-100200-17473196d437aa; mt=ci=-1_0; xlly_s=1; lLtC1_=1; v=0; _m_h5_tk=0d1d7b142c58bf91a3ad82ddfd37169d_1599723236031; _m_h5_tk_enc=a80117ec7f3cb50505f45377d01e60b4; t=2ae93078faab98d27c06beb0609a6f0a; _tb_token_=ee6539f5d7635; alitrackid=www.taobao.com; lastalitrackid=www.taobao.com; cookie2=1d4dda7ef6c8999b65003ad9455ce33b; JSESSIONID=77B58A9CB1EDB5BED7330917074DDB58; uc1=cookie14=UoTV5YvD0UgsXw%3D%3D; isg=BFBQDI86O4q9ceX3ddHQbuXcIZ6iGTRji3WGpkojjqt-hfAv8i3v86f8WU1lUew7; l=eBQ2dBUlqEOpXI5pBO5BFurza7793QRb4oVzaNbMiInca6adtFTqjNQ4CnkXSdtjgtCFVetPDcnX3RLHR3fd9xDDB3h2q_PjFxvO.; tfstk=cYHFBs1vYppFk2eWMJwPF__SPzVda9kohBE8tb2saFfO86r3usfOylx1y23zkdVh."
+    "User-Agent": "换上自己的User-Agent",
+    "cookie": "换上自己登录淘宝的cookie"
 }
 
 def ExtractIP(url="https://ip.ihuan.me/"):
