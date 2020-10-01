@@ -86,9 +86,13 @@ def Spider():
     topics = getHots()
     for idx,topic in enumerate(topics):
         print('clawling: {} numbers: {}'.format(topic[0],topic[1]))
+        #获取question ID
         question_id = topic[1].split('/')[-1]
+        #获取回答数
         number = getNumber(topic[1])
+        #爬取对应问题的所有回答
         datas = getAnswers(question_id,number)
+        #保存回答为.csv格式
         Saver(datas,idx + 1,['author','content'])
 
 if __name__ == "__main__":
