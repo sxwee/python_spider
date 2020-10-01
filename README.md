@@ -22,3 +22,4 @@ netease_comment_demo | 网易云音乐评论爬取及生成词频直方图
 wallpapers | 利用scrapy框架进行WallpaperCraft壁纸爬取
 taobao_mobileInfo_demo | 利用request框架爬取淘宝手机信息并绘制销量直方图
 JDComputer | 利用Scrapy框架对JD电脑信息进行爬取并绘制价格区间饼图 
+zhihu_answer_demo | 利用request库对知乎热榜所有问题及回答进行爬取并绘制对应的词云图
