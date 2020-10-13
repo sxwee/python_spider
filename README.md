@@ -6,7 +6,7 @@
 
 项目环境：python 3.6.3
 
-使用到的爬虫库：requests,selenium
+使用到的爬虫库：requests,selenium,json
 
 可视化相关库：Matplotlib,wordcloud
 
