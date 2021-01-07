@@ -12,7 +12,7 @@
 
 **B站建国同志视频信息爬虫**
 
-对应项目：bilibili_videoInfo_demo
+对应项目：bilibili_videoInfo
 
 博客：[爬虫实战系列(二)：利用Selenium自动获取B站建国同志视频信息](https://blog.csdn.net/qq_42103091/article/details/107571462)
 
@@ -20,7 +20,7 @@
 
 **QQ音乐周董《Mojito》评论爬虫及词云生成**
 
-对应项目：qqmusic_comment_demo
+对应项目：qqmusic_comment
 
 博客：[爬虫实战系列(四)：周董新歌Mojito评论爬取及可视化]()
 
@@ -28,7 +28,7 @@
 
 **B站弹幕获取**
 
-对应项目：bilibili_barrage_demo
+对应项目：bilibili_barrage
 
 博客：[爬虫实战系列(五)：轻松获取B站弹幕](https://blog.csdn.net/qq_42103091/article/details/107874198)
 
@@ -36,7 +36,7 @@
 
 **网易云林俊杰《无滤镜》评论爬取及词频直方图生成**
 
-对应项目：netease_comment_demo
+对应项目：netease_comment
 
 博客：[爬虫实战系列(六)：selenium获取网抑云《无滤镜》评论](https://blog.csdn.net/qq_42103091/article/details/107915082)
 
@@ -52,7 +52,7 @@
 
 **淘宝手机信息爬取及销量直方图绘制**
 
-对应项目：taobao_mobileInfo_demo
+对应项目：taobao_mobileInfo
 
 博客：[爬虫实战系列(八)：淘宝店铺各品牌手机售卖信息爬取及可视化](https://blog.csdn.net/qq_42103091/article/details/108526705)
 
@@ -68,7 +68,7 @@
 
 **知乎热榜全爬虫及词云图绘制**
 
-对应项目：zhihu_answer_demo
+对应项目：zhihu_answer
 
 博客：[爬虫实战系列(九)：知乎热榜全爬取及词云制作](https://blog.csdn.net/qq_42103091/article/details/108897911)
 
@@ -76,6 +76,6 @@
 
 **豆瓣《信条》短评数据获取及词云图绘制（多线程）**
 
-对应项目：douban_comment_demo
+对应项目：douban_comment
 
 博客：[爬虫实战系列(十)：用多线程看《信条》影评数据](https://blog.csdn.net/qq_42103091/article/details/109679690)
