@@ -39,7 +39,7 @@ def NextPage():
         
         return element_list
     except TimeoutException:
-        traceback.print_exc()
+        # traceback.print_exc()
         driver.refresh()
         NextPage()
 
