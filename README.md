@@ -79,3 +79,11 @@
 对应项目：douban_comment
 
 博客：[爬虫实战系列(十)：用多线程看《信条》影评数据](https://blog.csdn.net/qq_42103091/article/details/109679690)
+
+------
+
+**猫眼春节档热映电影数据**
+
+对应项目：maoyan_movie_comment
+
+博客：[爬虫实战系列(十二)：多线程带你看猫眼春节档热映电影数据](https://blog.csdn.net/qq_42103091?spm=1000.2115.3001.5343)
