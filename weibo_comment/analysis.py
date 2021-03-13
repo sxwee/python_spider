@@ -16,10 +16,9 @@ def WordCloudImage(fn,content):
     功能：生成词云图
     file_path：评论文件路径
     """
-    wc = WordCloud(font_path="../simhei.ttf",background_color='white',collocations=False,
-    width=600,height=300,max_words=100)
+    wc = WordCloud(font_path="../simhei.ttf",background_color='white',collocations=False)
     wc.generate(content)
-    wc.to_file('images/{}词云图.png'.format(fn))
+    wc.to_file('images/{}.png'.format(fn))
 
 
 

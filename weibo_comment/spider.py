@@ -52,7 +52,7 @@ def parse(text):
             if '<span' in user_c:
                 user_c = re.search('(.?)<span .*',user_c).group(1)
             # 去掉评论中的空格
-            user_c.replace(' ','')
+            user_c = user_c.replace('　','')
             # 获取评论时间
             t = content.get('created_at')
             print(user_na,user_c,t)
