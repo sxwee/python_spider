@@ -74,8 +74,8 @@ def Spider(comment_counts,weibo_id,IPs=None):
     flag = 0
     fail_nums = 0
     for i in range(1,lengh + 1):
-        # 三次获取json数据失败则退出爬虫程序
-        if fail_nums >= 3:break
+        # 10次获取json数据失败则退出爬虫程序
+        if fail_nums >= 10:break
         try:
             if i == 1:
                 # 首个json评论数据没有max_id字段
@@ -92,9 +92,10 @@ def Spider(comment_counts,weibo_id,IPs=None):
                 response = session.get(url=url,headers=headers,verify=False)
             comments,cur_id = parse(response.text)
             if cur_id == None:
-                flag = flag ^ 1
+                flag = 1
                 fail_nums += 1
             else:
+                flag = 0
                 max_id = cur_id 
             clist += comments
         except Exception:
