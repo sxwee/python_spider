@@ -1,0 +1,193 @@
+univNameCn,univNameEn,univTags,univCategory,province,score,ranking
+清华大学,Tsinghua University,一流大学A类 985 211,理工,北京,94,1
+北京大学,Peking University,一流大学A类 985 211,综合,北京,81,2
+浙江大学,Zhejiang University,一流大学A类 985 211,综合,浙江,80,3
+上海交通大学,Shanghai Jiao Tong University,一流大学A类 985 211,综合,上海,78,4
+复旦大学,Fudan University,一流大学A类 985 211,综合,上海,72,5
+中国科学技术大学,University of Science and Technology of China,一流大学A类 985 211,理工,安徽,65,6
+南京大学,Nanjing University,一流大学A类 985 211,综合,江苏,64,7
+哈尔滨工业大学,Harbin Institute of Technology,一流大学A类 985 211,理工,黑龙江,63,8
+东南大学,Southeast University,一流大学A类 985 211,综合,江苏,61,9
+华中科技大学,Huazhong University of Science and Technology,一流大学A类 985 211,理工,湖北,61,9
+中山大学,Sun Yat-Sen University,一流大学A类 985 211,综合,广东,61,11
+北京航空航天大学,Beihang University,一流大学A类 985 211,理工,北京,59,12
+同济大学,Tongji University,一流大学A类 985 211,理工,上海,59,13
+四川大学,Sichuan University,一流大学A类 985 211,综合,四川,58,14
+武汉大学,Wuhan University,一流大学A类 985 211,综合,湖北,58,14
+南开大学,Nankai University,一流大学A类 985 211,综合,天津,57,16
+西安交通大学,Xi'an Jiaotong University,一流大学A类 985 211,综合,陕西,57,17
+大连理工大学,Dalian University of Technology,一流大学A类 985 211,理工,辽宁,57,18
+天津大学,Tianjin University,一流大学A类 985 211,理工,天津,56,19
+山东大学,Shandong University,一流大学A类 985 211,综合,山东,56,20
+吉林大学,Jilin University,一流大学A类 985 211,综合,吉林,55,21
+华南理工大学,South China University of Technology,一流大学A类 985 211,理工,广东,54,22
+厦门大学,Xiamen University,一流大学A类 985 211,综合,福建,54,23
+北京师范大学,Beijing Normal University,一流大学A类 985 211,师范,北京,54,24
+北京理工大学,Beijing Institute of Technology,一流大学A类 985 211,理工,北京,52,25
+中国人民大学,Renmin University of China,一流大学A类 985 211,综合,北京,51,26
+华东理工大学,East China University of Science and Technology,一流学科 211,理工,上海,51,27
+重庆大学,Chongqing University,一流大学A类 985 211,综合,重庆,51,28
+中南大学,Central South University,一流大学A类 985 211,综合,湖南,51,28
+东北大学,Northeastern University,一流大学B类 985 211,理工,辽宁,50,30
+华东师范大学,East China Normal University,一流大学A类 985 211,师范,上海,50,31
+南京航空航天大学,Nanjing University of Aeronautics and Astronautics,一流学科 211,理工,江苏,50,32
+中国石油大学（北京）,China University of Petroleum - Beijing,一流学科 211,理工,北京,50,32
+苏州大学,Soochow University (China),一流学科 211,综合,江苏,50,34
+电子科技大学,University of Electronic Science and Technology of China,一流大学A类 985 211,理工,四川,49,35
+湖南大学,Hunan University,一流大学B类 985 211,综合,湖南,49,35
+中国农业大学,China Agricultural University,一流大学A类 985 211,农业,北京,49,35
+西北工业大学,Northwestern Polytechnical University,一流大学A类 985 211,理工,陕西,49,38
+北京科技大学,University of Science and Technology Beijing,一流学科 211,理工,北京,48,39
+上海大学,Shanghai University,一流学科 211,综合,上海,48,39
+中国地质大学（武汉）,China University of Geosciences (Wuhan),一流学科 211,理工,湖北,48,41
+南京理工大学,Nanjing University of Science and Technology,一流学科 211,理工,江苏,48,42
+北京邮电大学,Beijing University of Posts and Telecommunications,一流学科 211,理工,北京,47,43
+北京交通大学,Beijing jiaotong University,一流学科 211,理工,北京,47,44
+北京化工大学,Beijing University of Chemical Technology,一流学科 211,理工,北京,47,45
+华北电力大学,North China Electric Power University,一流学科 211,理工,北京,47,46
+武汉理工大学,Wuhan University of Technology,一流学科 211,理工,湖北,46,46
+西安电子科技大学,Xidian University,一流学科 211,理工,陕西,47,46
+东华大学,Donghua University,一流学科 211,理工,上海,46,49
+华中师范大学,Central China Normal University,一流学科 211,师范,湖北,46,50
+东北师范大学,Northeast Normal University,一流学科 211,师范,吉林,45,51
+兰州大学,Lanzhou University,一流大学A类 985 211,综合,甘肃,45,51
+福州大学,Fuzhou University,一流学科 211,理工,福建,45,53
+江南大学,Jiangnan University,一流学科 211,综合,江苏,45,54
+首都医科大学,Capital Medical University,,医药,北京,44,55
+中国矿业大学,China University of Mining and Technology - Xuzhou,一流学科 211,理工,江苏,44,56
+合肥工业大学,Hefei University of Technology,一流学科 211,理工,安徽,44,57
+中国海洋大学,Ocean University of China,一流大学A类 985 211,综合,山东,43,58
+暨南大学,Jinan University,一流学科 211,综合,广东,43,59
+华中农业大学,Huazhong Agricultural University,一流学科 211,农业,湖北,43,60
+哈尔滨工程大学,Harbin Engineering University,一流学科 211,理工,黑龙江,43,61
+河海大学,Hohai University,一流学科 211,理工,江苏,42,62
+浙江工业大学,Zhejiang University of Technology,,理工,浙江,42,63
+南京农业大学,Nanjing Agricultural University,一流学科 211,农业,江苏,42,64
+南京师范大学,Nanjing Normal University,一流学科 211,师范,江苏,42,64
+西南交通大学,Southwest Jiaotong University,一流学科 211,理工,四川,42,64
+北京工业大学,Beijing University of Technology,一流学科 211,理工,北京,41,67
+南京医科大学,Nanjing Medical University,,医药,江苏,41,68
+中国药科大学,China Pharmaceutical University,一流学科 211,医药,江苏,41,68
+华南师范大学,South China Normal University,一流学科 211,师范,广东,41,70
+浙江师范大学,Zhejiang Normal University,,师范,浙江,41,70
+西北农林科技大学,Northwest A&F University,一流大学B类 985 211,农业,陕西,41,72
+大连海事大学,Dalian Maritime University,一流学科 211,理工,辽宁,41,73
+西南大学,Southwest University,一流学科 211,综合,重庆,41,73
+北京林业大学,Beijing Forestry University,一流学科 211,林业,北京,41,75
+南京工业大学,Nanjing Tech University,,理工,江苏,40,76
+宁波大学,Ningbo University,一流学科,综合,浙江,40,76
+西北大学,Northwest University,一流学科 211,综合,陕西,40,76
+江苏大学,Jiangsu University,,综合,江苏,40,79
+陕西师范大学,Shaanxi Normal University,一流学科 211,师范,陕西,40,79
+浙江理工大学,Zhejiang Sci-Tech University,,理工,浙江,40,79
+安徽大学,Anhui University,一流学科 211,综合,安徽,40,82
+燕山大学,Yanshan University,,理工,河北,40,83
+湘潭大学,Xiangtan University,,综合,湖南,40,84
+长安大学,Chang'an University,一流学科 211,理工,陕西,40,85
+杭州师范大学,Hangzhou Normal University,,师范,浙江,40,86
+南方医科大学,Southern Medical University,,医药,广东,39,87
+北京中医药大学,Beijing University of Chinese Medicine,一流学科 211,医药,北京,39,88
+杭州电子科技大学,Hangzhou Dianzi University,,理工,浙江,39,89
+河北工业大学,Hebei University of Technology,一流学科 211,理工,天津,39,89
+湖北大学,Hubei University,,综合,湖北,39,91
+沈阳药科大学,Shenyang Pharmaceutical University,,医药,辽宁,39,92
+上海师范大学,Shanghai Normal University,,师范,上海,39,93
+湖南师范大学,Hunan Normal University,一流学科 211,师范,湖南,38,94
+浙江工商大学,Zhejiang Gongshang University,,财经,浙江,39,94
+郑州大学,Zhengzhou University,一流大学B类 211,综合,河南,38,94
+广西大学,Guangxi University,一流学科 211,综合,广西,38,97
+南京邮电大学,Nanjing University of Posts and Telecommunications,一流学科,理工,江苏,38,97
+上海理工大学,University of Shanghai for Science and Technology,,理工,上海,38,99
+河北大学,Hebei University,,综合,河北,38,100
+首都师范大学,Capital Normal University,一流学科,师范,北京,38,101
+东北农业大学,Northeast Agricultural University - China,一流学科 211,农业,黑龙江,38,102
+华侨大学,Huaqiao University,,综合,福建,38,102
+山西大学,Shanxi University,,综合,山西,37,104
+西安建筑科技大学,Xi'an University of Architecture and Technology,,理工,陕西,37,104
+深圳大学,Shenzhen University,,综合,广东,37,106
+长沙理工大学,Changsha University of Science and Technology,,理工,湖南,37,107
+华南农业大学,South China Agricultural University,,农业,广东,37,107
+青岛大学,Qingdao University,,综合,山东,37,107
+武汉科技大学,Wuhan University of Science and Technology,,理工,湖北,37,107
+南昌大学,Nanchang University,一流学科 211,综合,江西,37,111
+东北林业大学,Northeast Forestry University - China,一流学科 211,林业,黑龙江,37,112
+南京信息工程大学,Nanjing University of Information Science & Technology,一流学科,理工,江苏,37,112
+温州大学,Wenzhou University,,综合,浙江,37,114
+天津师范大学,Tianjin Normal University,,师范,天津,36,115
+太原理工大学,Taiyuan University of Technology,一流学科 211,理工,山西,36,116
+上海中医药大学,Shanghai University of Traditional Chinese Medicine,一流学科,医药,上海,36,117
+河北农业大学,Hebei Agricultural University,,农业,河北,36,118
+河北科技大学,Hebei University of Science and Technology,,理工,河北,36,119
+西安理工大学,Xi'an University of Technology,,理工,陕西,36,119
+安徽工业大学,Anhui University of Technology,,理工,安徽,36,121
+河北师范大学,Hebei Normal University,,师范,河北,36,121
+黑龙江大学,Heilongjiang University,,综合,黑龙江,36,121
+安徽师范大学,Anhui Normal University,,师范,安徽,36,124
+中国计量大学,China Jiliang University,,理工,浙江,36,124
+安徽医科大学,Anhui Medical University,,医药,安徽,36,126
+天津科技大学,Tianjin University of Science and Technology,,理工,天津,35,127
+天津工业大学,Tiangong University,一流学科,理工,天津,35,128
+扬州大学,Yangzhou University,,综合,江苏,35,128
+河南大学,Henan University,一流学科,综合,河南,35,130
+广州医科大学,Guangzhou Medical University,,医药,广东,35,131
+长春理工大学,Changchun University of Science and Technology,,理工,吉林,35,132
+东北石油大学,Northeast Petroleum University,,理工,黑龙江,35,132
+武汉工程大学,Wuhan Institute of Technology,,理工,湖北,35,132
+广东工业大学,Guangdong University of Technology,,理工,广东,35,135
+三峡大学,China Three Gorges University,,综合,湖北,35,135
+重庆邮电大学,Chongqing University of Posts and Telecommunications,,理工,重庆,35,137
+四川农业大学,Sichuan Agricultural University,一流学科 211,农业,四川,35,137
+成都理工大学,Chengdu University of Technology,一流学科,理工,四川,35,139
+中南民族大学,South Central University For Nationalities,,民族,湖北,34,140
+西南石油大学,Southwest Petroleum University,一流学科,理工,四川,34,141
+山东师范大学,Shandong Normal University,,师范,山东,34,142
+西北师范大学,Northwest Normal University China,,师范,甘肃,34,142
+浙江农林大学,Zhejiang A&F University,,林业,浙江,34,142
+江苏科技大学,Jiangsu University of Science and Technology,,理工,江苏,34,145
+江苏师范大学,Jiangsu Normal University,,师范,江苏,34,145
+桂林理工大学,Guilin University of Technology,,理工,广西,34,147
+贵州大学,Guizhou University,一流学科 211,综合,贵州,34,147
+南京林业大学,Nanjing Forestry University,一流学科,林业,江苏,34,147
+昆明理工大学,Kunming University of Science and Technology,,理工,云南,34,150
+河南理工大学,Henan Polytechnic University,,理工,河南,34,151
+济南大学,University of Jinan,,综合,山东,34,151
+广西师范大学,Guangxi Normal University,,师范,广西,34,153
+哈尔滨理工大学,Harbin University of Science and Technology,,理工,黑龙江,34,153
+河南师范大学,Henan Normal University,,师范,河南,34,153
+兰州交通大学,Lanzhou Jiaotong University,,理工,甘肃,34,153
+南华大学,University of South China,,综合,湖南,34,153
+湖南农业大学,Hunan Agricultural University,,农业,湖南,34,158
+内蒙古大学,Inner Mongolia University,一流学科 211,综合,内蒙古,33,158
+长江大学,Yangtze University,,综合,湖北,33,160
+广州大学,Guangzhou University,,综合,广东,33,160
+桂林电子科技大学,Guilin University of Electronic Technology,,理工,广西,33,160
+沈阳农业大学,Shenyang Agricultural University,,农业,辽宁,33,163
+沈阳建筑大学,Shenyang Jianzhu University,,理工,辽宁,33,164
+福建师范大学,Fujian Normal University,,师范,福建,33,165
+江西师范大学,Jiangxi Normal University,,师范,江西,33,166
+陕西科技大学,Shaanxi University of Science and Technology,,理工,陕西,33,166
+兰州理工大学,Lanzhou University of Technology,,理工,甘肃,33,168
+沈阳工业大学,Shenyang University of Technology,,理工,辽宁,33,168
+湖南科技大学,Hunan University of Science and Technology,,综合,湖南,33,170
+辽宁工程技术大学,Liaoning Technical University,,理工,辽宁,32,171
+中北大学,North University of China,,理工,山西,33,171
+华北水利水电大学,North China University of Water Resources and Electric Power,,理工,河南,32,173
+上海海洋大学,Shanghai Ocean University,一流学科,农业,上海,32,173
+河南科技大学,Henan University of Science and Technology,,理工,河南,32,175
+常州大学,Changzhou University,,理工,江苏,32,176
+南昌航空大学,Nanchang Hangkong University,,理工,江西,32,176
+南通大学,Nantong University,,综合,江苏,32,176
+安徽理工大学,Anhui University of Science and Technology,,理工,安徽,31,179
+南京中医药大学,Nanjing University of Chinese Medicine,一流学科,医药,江苏,31,179
+曲阜师范大学,Qufu Normal University,,师范,山东,31,181
+西安工程大学,Xi'an Polytechnic University,,理工,陕西,31,181
+河南农业大学,Henan Agricultural University,,农业,河南,31,183
+大连大学,Dalian University,,综合,辽宁,30,184
+西南科技大学,Southwest University of Science and Technology,,理工,四川,30,185
+河南科技学院,Henan Institute of Science and Technology,,师范,河南,30,186
+山西医科大学,Shanxi Medical University,,医药,山西,30,187
+山东理工大学,Shandong University of Technology,,理工,山东,30,188
+新疆大学,Xinjiang University,一流大学B类 211,综合,新疆,29,189
+河南工业大学,Henan University of Technology,,理工,河南,29,190
+辽宁石油化工大学,Liaoning shihua University,,理工,辽宁,29,191
+烟台大学,Yantai University,,综合,山东,28,192
