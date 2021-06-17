@@ -95,3 +95,12 @@
 对应项目：weibo_comment
 
 博客：[爬虫实战系列(十三)：新浪热搜榜微博评论爬取及可视化](https://blog.csdn.net/qq_42103091/article/details/114745856)
+
+------
+
+**中国大学软科排名数据爬取及可视化**
+
+对应项目：university_rank
+
+博客：
+
