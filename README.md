@@ -102,5 +102,5 @@
 
 对应项目：university_rank
 
-博客：
+博客：[爬虫实战系列(十四)：中国大学软科排名数据爬取及可视化分析](https://blog.csdn.net/qq_42103091/article/details/118002291)
 
