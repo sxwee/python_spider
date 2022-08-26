@@ -5,8 +5,8 @@ import traceback
 import pandas as pd
 
 headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36",
-    "cookie": "CURRENT_FNVAL=16; _uuid=2E3D38FF-3037-681D-E196-79804199F87343794infoc; stardustvideo=1; rpdid=|(k|m|mk)JJ|0J'ul~|m~k)lY; laboratory=1-1; LIVE_BUVID=207ce0e4ce48368c183cb53e1c092f89; LIVE_BUVID__ckMd5=99027a0e8b0933fc; sid=84pwcofi; buvid3=B89E7055-240D-47F3-A06A-ED0CE6836D8F40962infoc; CURRENT_QUALITY=64; bsource=search_google; finger=158939783; PVID=6"
+    "User-Agent": "换上自己的user-agent或用fake-useragent",
+    "cookie": "换上自己的cookie"
 }
 
 def GainVideoLink(pagenums = 3):
@@ -20,11 +20,11 @@ def GainVideoLink(pagenums = 3):
         try:
             url = "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E8%A1%8C%E6%94%BF%E4%BB%A4&page={}".format(i)
             response = requests.get(url,headers=headers)
-            #print(response.text)
             if response.status_code == 200:
                 i += 1
                 soup = BeautifulSoup(response.content,'lxml')
                 videos = soup.findAll('li',attrs={"class":"video-item matrix"})
+
                 for video in videos:
                     href = video.find('a').get('href')#获取视频的链接
                     print("http:" + href)

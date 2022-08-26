@@ -8,6 +8,8 @@
 
 **库需求**：requests, BeautifulSoup, Selenium, Scrapy, lxml, json, re, wordcloud, Matplotlib.etc
 
+==注意：项目代码的user-agent都为空，需要自行进行替换。==
+
 # 二.Demo简要说明
 
 **B站建国同志视频信息爬虫**
